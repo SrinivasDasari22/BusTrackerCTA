@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bus Tracker - CTA</string>
+    <string name="search_by_route_number_name">Search by route number/name</string>
+    <integer name="cache_lifetime">8640</integer>
+    <integer name="cache_lifetime2">86400000</integer>
+
+    <string name="cta_bus_key">h97kx4Q4NBYtYVS9uweTD85x6</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
